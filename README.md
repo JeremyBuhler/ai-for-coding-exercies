@@ -8,6 +8,11 @@ Welcome to the hands-on workspace exercies for **Parts 2 & 3** of the *AI for Co
 
 In these exersise, you will learn how to use **GitHub Copilot**, using a codespace and the Palmer Penguins dataset. 
 
+## Launch your Codespace
+
+Follow along the slides below
+
+**Setup walkthrough:** [How to Launch a GitHub Codespace for Coding Exercise](https://scribehow.com/shared/How_to_Launch_a_GitHub_Codespace_for_Coding_Exercises__ndrCCbUcQnCtdToUSEweZQ)
 
 > **⚠️ Critical:** Only use AI coding tools with files and data that can be made public. Workspace files and chat prompts may be indexed and processed by third-party AI models. **Never use these tools with personal, confidential, or sensitive data.**
 
